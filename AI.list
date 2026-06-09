@@ -30,9 +30,9 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,poe.com
 
 # Google Gemini
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN,perplexity.aibard.google.com
-DOMAIN-SUFFIX,waa-pa.clients6.google.com
+#DOMAIN-SUFFIX,bard.google.com
+#DOMAIN-SUFFIX,gemini.google.com
+#DOMAIN-SUFFIX,makersuite.google.com
+#DOMAIN-SUFFIX,anthropic.com
+#DOMAIN,perplexity.aibard.google.com
+#DOMAIN-SUFFIX,waa-pa.clients6.google.com
